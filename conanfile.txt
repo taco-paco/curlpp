@@ -1,5 +1,5 @@
 [requires]
-libcurl/7.70.0
+libcurl/7.80.0
 
 [generators]
 cmake
