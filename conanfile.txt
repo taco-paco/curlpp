@@ -3,3 +3,6 @@ libcurl/7.80.0
 
 [generators]
 cmake
+
+[options]
+libcurl:with_ssl=openssl
